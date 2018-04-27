@@ -1,6 +1,6 @@
 # tree
 
-> 一个树形菜单组件
+> 一个基于vue的树形菜单组件
 
 ## Build Setup
 
@@ -18,4 +18,3 @@ npm run build
 npm run build --report
 ```
 在线演示地址http://123.56.220.202:8022
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
